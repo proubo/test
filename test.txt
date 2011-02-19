@@ -1,3 +1,4 @@
 A test file.
 Second line.
 Third line.
+Fourth line.
